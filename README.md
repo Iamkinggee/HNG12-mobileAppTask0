@@ -16,7 +16,7 @@ Instructions:
 1. Cloning the Repository:
 To clone the repository to your local machine, run the following command:
 
-git clone https://github.com/yourusername/your-repository-name.git
+git clone https://github.com/Iamkinggee/HNG12-mobileAppTask0.git
 
 
 2. Building the App:
